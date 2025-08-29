@@ -6,3 +6,4 @@ Add the link to path of project
 Open the location of apk
 Get the apk
 Share it!
+And we are done
